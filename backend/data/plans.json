@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "High Deductible  Plan",
+    "premium": 200,
+    "deductible": 1000,
+    "network": "HMO",
+    "location": "Iowa"
+  },
+  {
+    "id": 2,
+    "name": "Family Advantage Plan",
+    "premium": 450,
+    "deductible": 500,
+    "network": "PPO",
+    "location": "South Dakota"
+  }
+]
